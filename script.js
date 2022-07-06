@@ -40,3 +40,26 @@ function border() {
 }
 
 border();
+
+function meme() {
+  const conteiner = document.getElementById('meme-image');
+  const meme1 = document.getElementById('meme-1');
+  const meme2 = document.getElementById('meme-2');
+  const meme3 = document.getElementById('meme-3');
+  const meme4 = document.getElementById('meme-4');
+
+  meme1.onclick = (evt) => {
+    conteiner.src = meme1.src;
+  };
+  meme2.onclick = (evt) => {
+    conteiner.src = meme2.src;
+  };
+  meme3.onclick = (evt) => {
+    conteiner.src = meme3.src;
+  };
+  meme4.onclick = (evt) => {
+    conteiner.src = meme4.src;
+  };
+}
+
+meme();
