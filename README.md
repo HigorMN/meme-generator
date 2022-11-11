@@ -1,10 +1,7 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<h1>Projeto - Meme genereitor</h1>
+
+- 👨‍💻 O que foi desenvolvido
+
+Uma aplicação usando HTML, CSS e JAVASCRIPT onde seja possível fazer upload de imagens para criar memes.
+
+![exemplo de um meme generator](./meme-generator.gif)
